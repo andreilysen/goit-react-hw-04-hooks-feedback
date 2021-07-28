@@ -1,0 +1,12 @@
+.item {
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: 400;
+}
+.item:first-child {
+  color: green;
+}
+
+.item:nth-child(3) {
+  color: red;
+}
